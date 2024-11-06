@@ -8,7 +8,7 @@ import MovieCard from "./MovieCard";
 // 478911a8
 // http://www.omdbapi.com/?i=tt3896198&apikey=478911a8
 
-const API_URL = 'http://www.omdbapi.com/?i=tt3896198&apikey=478911a8';
+const API_URL = 'https://www.omdbapi.com/?i=tt3896198&apikey=478911a8';
 
 
 const App = () => {
